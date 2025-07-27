@@ -154,6 +154,14 @@ modem-restart-1  |
 modem-restart-1  | ⏳ Waiting 15 minutes...
 ```
 
+# Device DNS Configuration
+
+You can change the DNS address using the web interface by visiting the following hidden URL:
+
+[http://192.168.1.1/2.0/gui/#/mybox/dns/server](http://192.168.1.1/2.0/gui/#/mybox/dns/server)
+
+> **Note:** This page might not be accessible from standard navigation menus. Make sure your device is connected to the local network and visit the link directly in your browser.
+
 ## 📃 License
 
 MIT License — feel free to use and adapt.
